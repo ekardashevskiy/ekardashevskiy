@@ -1,15 +1,8 @@
-![Alt Text](https://cloud.mail.ru/home/extra/hey_github.gif?weblink=qHpp/vuYE7M8JS)
+![Alt Text](https://i.imgur.com/Uh6tIr0.gif)
 
-### Hi there 👋
+Привет! 👋 Я Егор Кардaшeвский - Frontend Developer
+🔭 Я в поиске предложений 
+🧗‍ Изучаю Vanilla React JS, jQuery, Node JS, Express.js.
+📫 Моя почта: ekardashevskiy@gmail.com
+👋 Связаться со мной в Telegram: <url>https://t.me/kardashevskiy</url>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... webpage for a small business 
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ... OpenSource projects, though my experience is not really big, I'll try hard
-- 🤔 I’m looking for help with ... mentoring on binary trees lessons
-- 💬 Ask me about ... marketing (as a former marketeer, lol)
-- 📫 How to reach me: ... <url>https://t.me/kardashevskiy</url>
-- 😄 Pronouns: ... [Yeah-Gawr]
-- ⚡ Fun fact: ... my cat accidently forced me to learn programming by launching some random youtube video on webportfolio
--->
