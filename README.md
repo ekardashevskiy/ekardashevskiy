@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
