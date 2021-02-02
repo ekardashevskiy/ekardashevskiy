@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif)
+![Alt Text](https://cloud.mail.ru/home/extra/hey_github.gif?weblink=qHpp/vuYE7M8JS)
 
 ### Hi there 👋
 
